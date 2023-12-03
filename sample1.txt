@@ -1,2 +1,4 @@
 this is demo1
-
+num=int(input("enter any value: "))
+if(num>0):
+        print("positive")
